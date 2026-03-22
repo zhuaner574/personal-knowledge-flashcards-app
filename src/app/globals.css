@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@source "../**/*.{js,ts,jsx,tsx,mdx}";
+
+html,
+body {
+  height: 100%;
+}
+
+:root {
+  --bg-page: #ffffff;
+  --bg-surface: #ffffff;
+  --border-subtle: #eaeaea;
+  --text-primary: #111111;
+  --text-secondary: #6f6f6f;
+  --text-muted: #9a9a9a;
+}
+
+body {
+  color: var(--text-primary);
+  background: var(--bg-page);
+  font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+input,
+select,
+textarea,
+button {
+  font-family: inherit;
+}
+
