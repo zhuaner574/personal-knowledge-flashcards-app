@@ -1,6 +1,6 @@
 ## Live Demo
-- URL: <你的Vercel链接>
-- Demo login: <你准备的demo邮箱> / <密码>
+- URL: https://personal-knowledge-flashcards-app-l.vercel.app/
+- Demo login: 2791165968@qq.com / 13579qetuo
 - Try path: Notes → New note → Generate 3 templates → Review (daily cap 5)
 
 ## Core logic
