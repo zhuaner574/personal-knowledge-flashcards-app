@@ -1,3 +1,11 @@
+## Live Demo
+- URL: <你的Vercel链接>
+- Demo login: <你准备的demo邮箱> / <密码>
+- Try path: Notes → New note → Generate 3 templates → Review (daily cap 5)
+
+## Core logic
+Active Recall (type answer first) + simple spaced repetition (Correct doubles interval, Incorrect resets to 1 day).
+
 # Personal Knowledge Flashcards
 
 Notion-style MVP web app: **Notes -> Flashcards -> Daily Review** with active recall.
